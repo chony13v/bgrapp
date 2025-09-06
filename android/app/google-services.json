@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163225570260",
+    "project_id": "mfcapp-416aa",
+    "storage_bucket": "mfcapp-416aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163225570260:android:7529404fd9f8c523196441",
+        "android_client_info": {
+          "package_name": "com.mfcapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHAjJG4LtlTv8VYVn-afZ9nkp-5UznBs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
